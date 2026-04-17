@@ -1,4 +1,3 @@
-//215275512 Tal Tikhonov
 /**
  * Gets a list of numbers in the commandline, and prints their minimum,
  * maximum, and average values.
