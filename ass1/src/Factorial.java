@@ -1,4 +1,3 @@
-// 215275512 Tal Tikhonov
 /**
  * Calculating the factorial function.
  */
